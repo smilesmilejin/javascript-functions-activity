@@ -1,6 +1,6 @@
 # JS Functions Activity
 
-An activity to practice working with functions and closutes in Javascript.
+An activity to practice working with functions and closures in Javascript.
 
 ## One-Time Setup
 
